@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Kaushan+Script&family=Montserrat:ital,wght@1,500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+
+body {
+    width: 100%;
+    height: 100vh;
+    font-family: 'Monserrat', sans-serif;
+    background-color: #444c58;
+}
+
+#title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    color: azure;
+}
+
+.input-group {
+  width: 60%;
+}
+.alert {
+  width: 60%;
+  
+}
+
+.img  {
+  max-width:fit-content;
+  
+}
+
+.card {
+  max-width: fit-content;
+}
+
+.card-title {
+  position:absolute;
+  padding: 20px;
+ 
+  
+}
+.card-date {
+  position:absolute;
+  margin-top: 30px;
+  margin-left: 1px;
+  padding: 20px;
+}
+.card-temp {
+  position:absolute;
+  margin-left: 1px;
+  margin-top: 55px;
+  padding: 20px;
+}
+.card-description {
+  position:absolute;
+  margin-top: 90px;
+  margin-left:7px;
+  padding: 20px;
+}
+.card-icon {
+  position: absolute;
+  padding-top: 50px;
+  margin-top: 80px;
+  margin-left: 34px;
+}
