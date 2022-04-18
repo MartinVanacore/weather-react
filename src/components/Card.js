@@ -45,7 +45,7 @@ export const Card = ({weather, coming, isError, loading, show}) => {
                                         <p className="card-text">Feel: {weather.data.main.feels_like}ºC</p>
                                         <p className="card-text">Humidity: {weather.data.main.humidity}%</p>
                                         <p className="card-text">Wind Speed: {weather.data.wind.speed}m/s</p>
-                                        <p className="card-text">Wind Speed: {coming.data.list[0].weather[0].main} de dia sig</p>
+                                        
 
                                 </div>
                                 <hr/>
