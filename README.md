@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Weather-React
+# Bienvenidos / Welcome !
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto de practica fue realizado con React, Boostrap5, libreria Moment.js, Axios y se nutre de la API de openweather.
+Fue realizado para poder consumir una API y poder manupular los datos, todavia queda pendiente un par de arreglos pero poco a poco voy completando la app.
+**Pueden ver el proyecto online publicado en netlify**
 
-## Available Scripts
+## Sobre Mi:
+Soy Martin Vanacore, desarrollador de ReactJS. Formandome para ser FullStack con orientacion en DevOps, apasionado por el aprendizaje, la tecnologia y los negocios digitales.
 
-In the project directory, you can run:
+Axios: https://axios-http.com/docs/intro
 
-### `npm start`
+Moment: https://momentjs.com/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contacto:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://twitter.com/MartinVanacore
 
-### `npm test`
+https://www.linkedin.com/in/martinvanacore/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://martinvanacore.com
 
-### `npm run build`
+---
+# Weather-React
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This practice project was made with React, Boostrap5, Moment.js library, Axios and is powered by the openweather API.
+It was made to be able to consume an API and to be able to manipulate the data, there are still a couple of fixes to be done but little by little I'm completing the app.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Axios: https://axios-http.com/docs/intro
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Moment: https://momentjs.com/
 
-### `npm run eject`
+**The project online in netlify** 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## About me:
+I'm Martin Vanacore, Junior ReactJS developer. Training to be FullStack with orientation in DevOps, passionate about learning, technology and digital business.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+https://twitter.com/MartinVanacore
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://www.linkedin.com/in/martinvanacore/
