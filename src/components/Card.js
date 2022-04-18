@@ -51,21 +51,21 @@ export const Card = ({weather, coming, isError, loading, show}) => {
                                 <hr/>
                                 <div className='row mt-2'>
                                     <div className='col-6'> 
-                                        <h4 className='coming1 date'>{moment(coming.data.list[3].dt_txt).format('DD/MM/YYYY')}</h4>
+                                        <h4 className='coming1 date'>{moment(coming.data.list[9].dt_txt).format('DD/MM/YYYY')}</h4>
                                         
-                                        <h1 className='coming1'>{Math.round(coming.data.list[3].main.temp)}°C</h1>
+                                        <h1 className='coming1'>{Math.round(coming.data.list[9].main.temp)}°C</h1>
                                         
-                                        <img src={`http://openweathermap.org/img/wn/${coming.data.list[3].weather[0].icon}.png`} alt='icon' className='coming1'/>
-                                        <p className='coming1'> {coming.data.list[3].weather[0].description} </p>
+                                        <img src={`http://openweathermap.org/img/wn/${coming.data.list[9].weather[0].icon}.png`} alt='icon' className='coming1'/>
+                                        <p className='coming1'> {coming.data.list[9].weather[0].description} </p>
                                     </div>
 
                                     <div className='col-6'> 
-                                        <h4 className='coming2 date'>{moment(coming.data.list[13].dt_txt).format('DD/MM/YYYY')}</h4>
+                                        <h4 className='coming2 date'>{moment(coming.data.list[17].dt_txt).format('DD/MM/YYYY')}</h4>
                                         
-                                        <h1 className='coming2'>{Math.round(coming.data.list[13].main.temp)}°C</h1>
+                                        <h1 className='coming2'>{Math.round(coming.data.list[17].main.temp)}°C</h1>
                                         
-                                        <img src={`http://openweathermap.org/img/wn/${coming.data.list[13].weather[0].icon}.png`} alt='icon' className='coming2'/>
-                                        <p className='coming2'> {coming.data.list[13].weather[0].description} </p>
+                                        <img src={`http://openweathermap.org/img/wn/${coming.data.list[17].weather[0].icon}.png`} alt='icon' className='coming2'/>
+                                        <p className='coming2'> {coming.data.list[17].weather[0].description} </p>
                                     </div>
                                 </div>
                             </div>
