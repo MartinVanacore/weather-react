@@ -3,7 +3,8 @@
 
 Este proyecto de practica fue realizado con React, Boostrap5, libreria Moment.js, Axios y se nutre de la API de openweather.
 Fue realizado para poder consumir una API y poder manupular los datos, todavia queda pendiente un par de arreglos pero poco a poco voy completando la app.
-**Pueden ver el proyecto online publicado en netlify**
+
+**Pueden ver el proyecto online publicado en netlify** https://weather-react-test.netlify.app
 
 ## Sobre Mi:
 Soy Martin Vanacore, desarrollador de ReactJS. Formandome para ser FullStack con orientacion en DevOps, apasionado por el aprendizaje, la tecnologia y los negocios digitales.
@@ -30,7 +31,7 @@ Axios: https://axios-http.com/docs/intro
 
 Moment: https://momentjs.com/
 
-**The project online in netlify** 
+**The project online in netlify** https://weather-react-test.netlify.app
 
 ## About me:
 I'm Martin Vanacore, Junior ReactJS developer. Training to be FullStack with orientation in DevOps, passionate about learning, technology and digital business.
