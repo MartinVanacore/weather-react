@@ -9,16 +9,18 @@ Dependencias utilizadas:
   - Moment.js: npm install moment --save  
   - Axios:   npm install axios /Repo https://github.com/axios/axios
 
-**Pueden ver el proyecto online publicado en netlify** https://weather-react-test.netlify.app
-
-## Sobre Mi:
-Soy Martin Vanacore, desarrollador de ReactJS. Formandome para ser FullStack con orientacion en DevOps, apasionado por el aprendizaje, la tecnologia y los negocios digitales.
 
 Axios: https://axios-http.com/docs/intro
 
 Moment: https://momentjs.com/
 
 OpenWeather: https://openweathermap.org/api
+
+**Pueden ver el proyecto online publicado en netlify** https://weather-react-test.netlify.app
+
+## Sobre Mi:
+Soy Martin Vanacore, desarrollador de ReactJS. Formandome para ser FullStack con orientacion en DevOps, apasionado por el aprendizaje, la tecnologia y los negocios digitales.
+
 
 ## Contacto:
 
